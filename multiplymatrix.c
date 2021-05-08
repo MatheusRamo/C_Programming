@@ -36,6 +36,8 @@ void initMatrix(int matrix[][3], int rows, int columns)
 
 		}
 
+	
+
 
 	}
 
@@ -50,10 +52,10 @@ int main()
 	int matrixTwo[3][3];
 	int matrixResult[2][3];
 
-	printf("\nEnter the elements of the first matrix: ");
+	printf("\nEnter the elements of the first matrix:\n");
 	initMatrix(matrixOne, 2, 3);
 
-	printf("\nEnter the elements of the second matrix: ");
+	printf("\nEnter the elements of the second matrix: \n");
 	initMatrix(matrixTwo, 3, 3);
 
 
