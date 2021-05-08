@@ -33,7 +33,7 @@ int main()
 
 	int array[max];
 	int n, i, j, k;
-	int newValue;
+
 
 
 	printf("The length of the array: \n");
@@ -63,7 +63,7 @@ int main()
 	scanf("%d", &array[k]);
 	
 	printf("\nArray after insertion: \n");
-	printArray(array, n+1);
+	printArray(array, n + 1);
 
 
 
