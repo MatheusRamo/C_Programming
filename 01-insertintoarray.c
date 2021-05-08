@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 /*
  *Inserting an element in an array
  *
@@ -9,6 +7,7 @@
  *
  */
 
+#include <stdio.h>
 
 #define max 100
 
